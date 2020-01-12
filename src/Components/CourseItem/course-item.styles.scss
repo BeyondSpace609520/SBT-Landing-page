@@ -1,0 +1,30 @@
+.course-item {
+    width: 18vw;
+    display: flex;
+    flex-direction: column;
+    height: 220px;
+    align-items: center;
+    position: relative;
+
+    @media screen and (max-width: 800px) {
+        width: 40vw;
+    }
+
+    .image {
+        width: 100%;
+        height: 95%;
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 5px;
+    }
+    
+    .title {
+        font-size: 12px;
+        width: 100%;
+        height: 5%;
+        display: flex;
+        justify-content: space-between;
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+}

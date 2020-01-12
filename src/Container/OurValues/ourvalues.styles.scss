@@ -1,0 +1,48 @@
+.our-values {
+    padding: 9vw 15vw 9vw 15vw;
+    margin:0 auto;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 55px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    color: white;
+    background-color: #dd3333;
+
+    @media screen and (max-width: 800px) {
+        grid-template-columns: 1fr;
+    }
+
+    @media screen and (max-width: 1000px) {
+        font-size: 16px;
+    }
+
+    .image {
+        width: 100%;
+        margin: auto auto;
+    }
+
+    .content {
+        text-shadow: 0 1px 3px rgba(0,0,0,.3);
+        text-align: justify;
+
+        .title {
+            font-weight: bold;
+            font-size: 44px;
+
+            @media screen and (max-width: 1000px) {
+                font-size: 36px;
+            }
+        }
+
+        .subtitle {
+            font-weight: bold;
+            font-size: 21px;
+
+            @media screen and (max-width: 1000px) {
+                font-size: 18px;
+            }
+        }
+    }
+}

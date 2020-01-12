@@ -1,0 +1,251 @@
+{
+    "CoverPage": {
+        "Title": "Smart Business Training",
+        "Text": "Meet Our Vision and Mission",
+        "ImgUrl": "/images/CoverPage/chess-1163624_1280.jpg"
+    },
+    "AboutUs": {
+        "Mission": " To provide training programs to our clients, oriented in people, with the purpose of continuously adding value to our clients and our collaborators, to generate a transformation of the organization in accordance with the challenges and opportunities of the global environment.",
+        "Vision": " To be a training company, reliable, modern and prestigious nationally, focused on the needs of our customers, to be recognized as their strategic partners.",
+        "ImgUrl": "/images/AboutUs/glasses-272399_1280.jpg"
+    },
+    "OurValues": {
+        "Responsibility": " take or accept and assume the result of them, the same of their unintended acts, seeking the common good and ensuring that other people do the same.",
+        "Flexibility": " adapt our behaviors quickly to the frames of reference of each person or other situations, without abandoning personal principles and values",
+        "Respect": " act or leave acting, valuing rights, conditions and circumstances, trying not to harm, or stop benefiting themselves or others.",
+        "Quality": " achieve excellence through continuous improvement, prior planning and effective performance of our activities.",
+        "ImgUrl": "/images/OurValues/valorescorporativos.png"
+    },
+    "ProgramsInCompany": {
+        "Title": "Programs In Company",
+        "Subtitle": "In this modality the diagnosis and analysis of the specific need is made prior to the design of the proposal to achieve that in the execution the objectives of the organization are achieved.",
+        "Pros": "The advantages of conducting In Company training, among others, are:",
+        "Lists": [
+            {"Content": "Tailored solutions to meet your training needs"},
+            {"Content": "Train a greater number of people to lower cost per person"},
+            {"Content": "Flexible schedule to minimize downtime and so keep the productivity"},
+            {"Content": "Cost savings by displacement of participants"},
+            {"Content": "Process monitoring and evaluation"}
+        ],
+        "Exp": "We have a team of senior instructors with more than 10 years of experience in the design and development of training, who will provide the training you need, ensuring quality and excellence in the development of training.",
+        "ImgUrl": "/images/ProgramsInCompany/CapacitacionInCompany.jpg"
+    },
+    "SmartBusinnessTraining" : {
+        "Title": "Smart Businness Training",
+        "Texts": [
+            {"Content": "Smart Business Training, SA is a company with the conviction that training favors the development of human capital, that builds the true growth paths and that it is the solution to the challenges that companies face every day."},
+            {"Content": "Training is one of the best investments in human capital, with our support, you can turn it into one of the main sources of well-being for your company since with each seminar, program or diploma it opens the opportunity to improve your competitiveness, seek or maintain leadership and prepare it for sudden changes in the market. Because we seek to provide a deep learning experience, through teaching techniques we generate a true transformation of mental models."},
+            {"Content": "We are supported by the experience of the administrative and sales staff in the training area as well as our speakers with more than 10 years of experience in areas such as customer service, human resources, sales, management, finance, marketing, logistics, technology among others who are constantly updating to provide the best tools."},
+            {"Content": "Our services are characterized by making designs that are focused on the training needs detected within national organizations."},
+            {"Content": "We design exclusive solutions for your organization aimed at satisfying the needs detected, according to the organizational strategy."},
+            {"Content": "In our processes we seek that people acquire applicable learning related to business strategies, their objectives and the values ​​of the organization."}
+        ]
+    },
+    "TrainingPrograms": {
+        "Title": "Training Programs in the following areas",
+        "Programs": [
+            { "type": "Senior Management" },
+            { "type": "Middle Management" },
+            { "type": "Customer Service" },
+            { "type": "Sales" },
+            { "type": "Finance" },
+            { "type": "Marketing" },
+            { "type": "Call Center" },
+            { "type": "Human Resources" },
+            { "type": "Production and Operations" },
+            { "type": "Logistics" },
+            { "type": "Assistants and Executive Secretaries" },
+            { "type": "Technology and Computing" },
+            { "type": "Better practices" }
+        ],
+        "ImgUrl": "/images/TrainingPrograms/leave-364178_1280.jpg"
+    },
+    "SBT": {
+        "Content": [
+            {
+                "Title": "November 2019 Agenda",
+                "ImageUrl": "/images/SBT/Agenda-Noviembre-2019.png"
+            },
+            {
+                "Title": "Sales Competencies Development",
+                "ImageUrl": "/images/SBT/Desarrollo-de-Compentencias-para-Vendedores.png"
+            },
+            {
+                "Title": "Emotional Intelligence",
+                "ImageUrl": "/images/SBT/Inteligencia-Emocional.png"
+            },
+            {
+                "Title": "Complaints and Claims Management",
+                "ImageUrl": "/images/SBT/Manejo-de-Quejas-y-Reclamos.png"
+            },
+            {
+                "Title": "Power BI",
+                "ImageUrl": "/images/SBT/Power-BI.png"
+            },
+            {
+                "Title": "9S program",
+                "ImageUrl": "/images/SBT/Programa-9S.png"
+            },
+            {
+                "Title": "Techniques for new bosses",
+                "ImageUrl": "/images/SBT/Técnicas-para-nuevos-jefes.png"
+            },
+            {
+                "Title": "Financial statement analysis",
+                "ImageUrl": "/images/SBT/Análisis-de-Estados-Financieros.png"
+            },
+            {
+                "Title": "Accounting for non-accountants",
+                "ImageUrl": "/images/SBT/Contabilidad-para-no-Contadores.png"
+            }
+        ]
+    },
+    "ChildrenAndTeenagers": {
+        "Content": [
+            {
+                "Title": "Academy Agenda - NA - October - December 2019",
+                "ImageUrl": "/images/ChildrenAndTeenagers/Agenda-Academy-NA-Octubre-Diciembre-2019.png"
+            },
+            {
+                "Title": "Thought Development for teenagers",
+                "ImageUrl": "/images/ChildrenAndTeenagers/Desarrollo-del-Pensamiento-para-adolescentes.png"
+            },
+            {
+                "Title": "Development for the future",
+                "ImageUrl": "/images/ChildrenAndTeenagers/Desarrollo-para-el-futuro.png"
+            },
+            {
+                "Title": "Intelligence for Teens",
+                "ImageUrl": "/images/ChildrenAndTeenagers/Inteligencia-para-Adolescentes.png"
+            },
+            {
+                "Title": "Microsoft Office",
+                "ImageUrl": "/images/ChildrenAndTeenagers/Microsoft-Office.png"
+            }
+        ]
+    },
+    "ParentsAndTeachers": {
+        "Content": [
+            {
+                "Title": "Academy Agenda - PM - October - December 2019",
+                "ImageUrl": "/images/ParentsAndTeachers/Agenda-Academy-PM-Octubre-Diciembre-2019.png"
+            },
+            {
+                "Title": "Limit Determination",
+                "ImageUrl": "/images/ParentsAndTeachers/Determinación-de-límites.png"
+            },
+            {
+                "Title": "Educating in responsibility",
+                "ImageUrl": "/images/ParentsAndTeachers/Educando-en-la-responsabilidad.png"
+            },
+            {
+                "Title": "Parenting styles",
+                "ImageUrl": "/images/ParentsAndTeachers/Estilos-de-crianza.png"
+            },
+            {
+                "Title": "Prepare your children for life",
+                "ImageUrl": "/images/ParentsAndTeachers/Prepara-a-tus-hijos-para-la-vida.png"
+            }
+        ]
+    },
+    "PersonalDevelopment": {
+        "Content": [
+            {
+                "Title": "Development Agenda - Personnel - October - December 2019",
+                "ImageUrl": "/images/PersonalDevelopment/Agenda-Desarrollo-Personal-Octubre-Diciembre-2019.png"
+            },
+            {
+                "Title": "Learning to understand and face my duels",
+                "ImageUrl": "/images/PersonalDevelopment/Aprendiendo-a-comprender-y-afrontar-mis-duelos.png"
+            },
+            {
+                "Title": "Self-knowledge, Self-esteem and Overcoming",
+                "ImageUrl": "/images/PersonalDevelopment/Autoconocimientos-Autoestima-y-Superación.png"
+            },
+            {
+                "Title": "How to achieve socio-emotional relationships",
+                "ImageUrl": "/images/PersonalDevelopment/Cómo-lograr-relaciones-socioafectivas.png"
+            },
+            {
+                "Title": "Belief Systems",
+                "ImageUrl": "/images/PersonalDevelopment/Sistemas-de-Creencias.png"
+            }
+        ]
+    },
+    "OlderAdults": {
+        "Content": [
+            {
+                "Title": "Development Agenda - AM - October - December 2019",
+                "ImageUrl": "/images/OlderAdults/Agenda-Desarrollo-AM-Octubre-Diciembre-2019.png"
+            },
+            {
+                "Title": "Emotional expression through therapy",
+                "ImageUrl": "/images/OlderAdults/Expresión-emocional-por-medio-del-Terapia.png"
+            },
+            {
+                "Title": "Memory and Creativity",
+                "ImageUrl": "/images/OlderAdults/Memoria-y-Creatividad.png"
+            },
+            {
+                "Title": "How to boost my self-esteem",
+                "ImageUrl": "/images/OlderAdults/Cómo-potenciar-mi-autoestima.png"
+            },
+            {
+                "Title": "The wonderful third stage",
+                "ImageUrl": "/images/OlderAdults/La-maravillosa-tercera-etapa.png"
+            }
+        ]
+    },
+    "OtherCourses": {
+        "Content": [
+            {
+                "Title": "Quetzaltenango",
+                "ImageUrl": "/images/OtherCourses/Diapositiva12.png"
+            },
+            {
+                "Title": "Logistics and Operations",
+                "ImageUrl": "/images/OtherCourses/Diapositiva6.png"
+            },
+            {
+                "Title": "Virtual Training",
+                "ImageUrl": "/images/OtherCourses/Diapositiva10.png"
+            },
+            {
+                "Title": "Senior Management and Middle Management",
+                "ImageUrl": "/images/OtherCourses/Diapositiva2.png"
+            },
+            {
+                "Title": "Technology",
+                "ImageUrl": "/images/OtherCourses/Diapositiva9.png"
+            },
+            {
+                "Title": "Assistants and Secretaries",
+                "ImageUrl": "/images/OtherCourses/Diapositiva4.png"
+            },
+            {
+                "Title": "Finanzs and Accounting",
+                "ImageUrl": "/images/OtherCourses/Diapositiva7.png"
+            },
+            {
+                "Title": "Marketing and sales",
+                "ImageUrl": "/images/OtherCourses/Diapositiva3.png"
+            },
+            {
+                "Title": "Human Resources",
+                "ImageUrl": "/images/OtherCourses/Diapositiva1.png"
+            },
+            {
+                "Title": "In Company Programs",
+                "ImageUrl": "/images/OtherCourses/Diapositiva11.png"
+            },
+            {
+                "Title": "Projects",
+                "ImageUrl": "/images/OtherCourses/Diapositiva8.png"
+            },
+            {
+                "Title": "Customer service",
+                "ImageUrl": "/images/OtherCourses/Diapositiva5.png"
+            }
+        ]
+    }
+}
